@@ -7,9 +7,9 @@
 </div>
 
 ###
-
+<!--
 <img align="right" height="200" src="https://abhijith.web.app/_next/static/media/abhijith.58c70d0c.png"  />
-
+-->
 ###
 
 <div align="left">
